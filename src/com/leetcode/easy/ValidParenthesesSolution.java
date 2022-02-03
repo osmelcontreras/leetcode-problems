@@ -10,6 +10,8 @@ public class ValidParenthesesSolution {
 		// return false;
 		// }
 
+		// new commentjfaksdjflkaj
+
 		Stack<Character> stack = new Stack<>();
 		char[] charStr = s.toCharArray();
 
